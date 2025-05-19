@@ -26,8 +26,7 @@
 
   <a href="https://github.com/originalmyz/originalmyz">
        <img width="278" src=https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=originalmyz&repo=originalmyz&theme=react&bg_color=1F222E&title_color=FF69B4&hide_border=true&icon_color=FF69B4&show_icons=false">
-      
-   <a href="https://github.com/originalmyz?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/</a>
+        <a href="https://github.com/originalmyz?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/</a>
  </a>
 
 </details> 
