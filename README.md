@@ -16,7 +16,7 @@
 <details open> 
     <summary><h2>🌟 Recent Projects</h2></summary>
   
-  <a href="https://github.com/originalmyz/originalmyz">
+  <a href="https://github.com/originalmyz/originalmyz.github.io">
        <img width="278" src=https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=originalmyz&repo=originalmyz.github.io&theme=react&bg_color=1F222E&title_color=FF69B4&hide_border=true&icon_color=FF69B4&show_icons=false">
     </a>
 
